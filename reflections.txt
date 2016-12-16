@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+So far in this course I have learned about the tree-like structure of HTML and how to implement this structure to create the skeleton of a webpage. More generally, I have sharpened three skills essential to web development: attention to detail, diligence, and Google-fu (or how to find useful answers on Google).
+
+The difficulty in web development is not to be found in the ideas or underlying structures but in the implementation of those structures within a defined scope. So I would say that I found understanding the concept of HTML and its structure to be easier than utilizing that knowledge to pass a series of tests.
+
+Problem solving strategies that I have gained thus far in this course include: rereading the question at hand to ensure that I am within the scope of the problem and searching through Google to find resources that answer my questions without falling into rabbit holes that divert me from the present task.
